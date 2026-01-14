@@ -27,3 +27,6 @@ This project indexes pokemondb.net and provides a searchable Pokémon experience
 ```bash
 npm install
 npm start
+
+## Live Demo
+https://marcbourbonnais.github.io/pokemon-search-coveo/
