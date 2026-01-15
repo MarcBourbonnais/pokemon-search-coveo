@@ -9,6 +9,7 @@ This project indexes pokemondb.net and provides a searchable Pokémon experience
   - Pokémon Type (multi-value)
   - Pokémon Generation (numeric)
 - Sorting:
+  - Relevance
   - Name (A–Z), (Z-A)
   - Generation
 - Rich results:
@@ -23,10 +24,10 @@ This project indexes pokemondb.net and provides a searchable Pokémon experience
 - Numeric facets use half-open ranges
 - Local Atomic setup to avoid Search Pages privilege requirements
 
+## Live Demo
+https://marcbourbonnais.github.io/pokemon-search-coveo/
+
 ## Running Locally
 ```bash
 npm install
 npm start
-
-## Live Demo
-https://marcbourbonnais.github.io/pokemon-search-coveo/
